@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextToSpeechConverter</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="type_the_word">Type the word</string>
+    <string name="title_text_to_speech_converter">Text to speech converter</string>
+    <string name="say_it">SAY IT</string>
+    <string name="title_pitch">Pitch</string>
+    <string name="title_speed">Speed</string>
+</resources>
